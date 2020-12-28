@@ -1,0 +1,144 @@
+#EXTM3U
+#EXTINF:0,#EXTM3U url-tvg="http://m3u4u.com/epg/5g28nep9p7s9x68yzpe9"
+#
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| STAR MAA" tvg-logo="" group-title=" TELUGU ",|IN| STAR MAA
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/61786.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| STAR SPORTS 1" tvg-logo="" group-title=" SPORTS ",|IN| STAR SPORTS 1
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/61793.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| STAR SPORTS 2" tvg-logo="" group-title=" SPORTS ",|IN| STAR SPORTS 2
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/61794.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| STAR SPORTS 3" tvg-logo="" group-title=" SPORTS ",|IN| STAR SPORTS 3
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/61795.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| SONY SIX HD" tvg-logo="" group-title=" SPORTS ",|IN| SONY SIX HD
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/61797.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| SONY ESPN HD" tvg-logo="" group-title=" SPORTS ",|IN| SONY ESPN HD
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/61798.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| ZEE TELUGU" tvg-logo="" group-title=" TELUGU ",|IN| ZEE TELUGU
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/61801.ts
+#EXTINF:0,#
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| SONY SIX" tvg-logo="" group-title=" SPORTS ",|IN| SONY SIX
+#EXTINF:0,http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/62210.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| TEN 1 HD" tvg-logo="" group-title=" SPORTS ",|IN| TEN 1 HD
+#EXTINF:0,http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/62211.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| TEN 2 HD" tvg-logo="" group-title=" SPORTS ",|IN| TEN 2 HD
+#EXTINF:0,http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/62212.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| TEN 3 HD" tvg-logo="" group-title=" SPORTS ",|IN| TEN 3 HD
+#EXTINF:0,http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/62213.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| HISTORY" tvg-logo="" group-title="INDIA",|IN| HISTORY
+#EXTINF:0,http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/62214.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| NAT GEO HD" tvg-logo="" group-title="INDIA",|IN| NAT GEO HD
+#EXTINF:0,http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/62215.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| NAT GEO WILD" tvg-logo="" group-title="INDIA",|IN| NAT GEO WILD
+#EXTINF:0,http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/62216.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| CARTOON NETWORK" tvg-logo="" group-title="INDIA",|IN| CARTOON NETWORK
+#EXTINF:0,http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/62217.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| NICK" tvg-logo="" group-title="INDIA",|IN| NICK
+#EXTINF:0,http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/62218.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| &FLIX" tvg-logo="" group-title="INDIA",|IN| &FLIX
+#EXTINF:0,http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/62219.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| & privé HD(eng)" tvg-logo="" group-title="INDIA",|IN| & privé HD(eng)
+#EXTINF:0,http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/66669.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| & Xplor HD" tvg-logo="" group-title="INDIA",|IN| & Xplor HD
+#EXTINF:0,http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/66670.ts
+#
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| DD National HD" tvg-logo="" group-title="INDIA",|IN| DD National HD
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/66688.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| DD News (News)" tvg-logo="" group-title="INDIA",|IN| DD News (News)
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/66689.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Epic HD" tvg-logo="" group-title="INDIA",|IN| Epic HD
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/66694.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| MNX HD" tvg-logo="" group-title="INDIA",|IN| MNX HD
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/66704.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| MNX Movies HD" tvg-logo="" group-title="INDIA",|IN| MNX Movies HD
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/66705.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Sony Pix" tvg-logo="" group-title="INDIA",|IN| Sony Pix
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/66730.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Sony Waha HD" tvg-logo="" group-title="INDIA",|IN| Sony Waha HD
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/66731.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| STAR GOLD SELECT HD" tvg-logo="" group-title="INDIA",|IN| STAR GOLD SELECT HD
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/66732.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Star Plus HD (UK)" tvg-logo="" group-title="INDIA",|IN| Star Plus HD (UK)
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/66733.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Ten Sports" tvg-logo="" group-title="INDIA",|IN| Ten Sports
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/66734.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| TLC Hindi HD" tvg-logo="" group-title="INDIA",|IN| TLC Hindi HD
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/66737.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| UTV Bindas HD" tvg-logo="" group-title="INDIA",|IN| UTV Bindas HD
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/66738.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| UTV Movies HD" tvg-logo="" group-title="INDIA",|IN| UTV Movies HD
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/66739.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Willow HD" tvg-logo="" group-title="INDIA",|IN| Willow HD
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/66740.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Wion TV(News)" tvg-logo="" group-title="INDIA",|IN| Wion TV(News)
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/66741.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Zee Cafe HD" tvg-logo="" group-title="INDIA",|IN| Zee Cafe HD
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/66745.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Zee Theatre HD" tvg-logo="" group-title="INDIA",|IN| Zee Theatre HD
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/66749.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Zing (Music)" tvg-logo="" group-title="INDIA",|IN| Zing (Music)
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/66755.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Zing HD (Usa)" tvg-logo="" group-title="INDIA",|IN| Zing HD (Usa)
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/66756.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Zoom (Music)" tvg-logo="" group-title="INDIA",|IN| Zoom (Music)
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/66757.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Telugu_ABN News" tvg-logo="" group-title=" TELUGU ",|IN| Telugu_ABN News
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68413.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Telugu_10TV  News HD" tvg-logo="" group-title=" TELUGU ",|IN| Telugu_10TV  News HD
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68414.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Telugu_99TV Telugu HD" tvg-logo="" group-title=" TELUGU ",|IN| Telugu_99TV Telugu HD
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68415.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Telgu_AP24x7 (News)" tvg-logo="" group-title=" TELUGU ",|IN| Telgu_AP24x7 (News)
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68416.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Telgu_Bhakthi TV (Spirtual))" tvg-logo="" group-title=" TELUGU ",|IN| Telgu_Bhakthi TV (Spirtual))
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68417.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Telgu_Bharat Today Live (News)" tvg-logo="" group-title=" TELUGU ",|IN| Telgu_Bharat Today Live (News)
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68418.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Telgu_CVR English" tvg-logo="" group-title=" TELUGU ",|IN| Telgu_CVR English
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68419.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Telgu_CVR News Telugu" tvg-logo="" group-title=" TELUGU ",|IN| Telgu_CVR News Telugu
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68420.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Telgu_CVR OM HD" tvg-logo="" group-title=" TELUGU ",|IN| Telgu_CVR OM HD
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68421.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Telgu_DD Sapthagiri" tvg-logo="" group-title=" TELUGU ",|IN| Telgu_DD Sapthagiri
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68422.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Telgu_ETV Abhiruchi" tvg-logo="" group-title=" TELUGU ",|IN| Telgu_ETV Abhiruchi
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68423.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Telgu_ ETV PLUS" tvg-logo="" group-title=" TELUGU ",|IN| Telgu_ ETV PLUS
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68424.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Telgu_ETV_Cinema" tvg-logo="" group-title=" TELUGU ",|IN| Telgu_ETV_Cinema
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68425.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Telgu_Prime9 News HD" tvg-logo="" group-title=" TELUGU ",|IN| Telgu_Prime9 News HD
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68426.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Telgu_Sakshi TV (News)" tvg-logo="" group-title=" TELUGU ",|IN| Telgu_Sakshi TV (News)
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68427.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Telugu_ Mahaa News" tvg-logo="" group-title=" TELUGU ",|IN| Telugu_ Mahaa News
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68428.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Telugu_Hmtv" tvg-logo="" group-title=" TELUGU ",|IN| Telugu_Hmtv
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68429.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Telugu_Mango Music HD" tvg-logo="" group-title=" TELUGU ",|IN| Telugu_Mango Music HD
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68430.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Telugu_STAR MAA GOLD HD (Hotstar)" tvg-logo="" group-title=" TELUGU ",|IN| Telugu_STAR MAA GOLD HD (Hotstar)
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68431.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Telugu_STAR MAA HD (Hotstar)" tvg-logo="" group-title=" TELUGU ",|IN| Telugu_STAR MAA HD (Hotstar)
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68432.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Telugu_STAR Maa Movies HD (Hotstar)" tvg-logo="" group-title=" TELUGU ",|IN| Telugu_STAR Maa Movies HD (Hotstar)
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68433.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Telugu_T News HD" tvg-logo="" group-title=" TELUGU ",|IN| Telugu_T News HD
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68434.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Telugu_TV 5 News HD" tvg-logo="" group-title=" TELUGU ",|IN| Telugu_TV 5 News HD
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68435.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Telugu_TV9 NEWS HD" tvg-logo="" group-title=" TELUGU ",|IN| Telugu_TV9 NEWS HD
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68436.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Telugu_v6 News" tvg-logo="" group-title=" TELUGU ",|IN| Telugu_v6 News
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68437.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Telugu_Vissa TV" tvg-logo="" group-title=" TELUGU ",|IN| Telugu_Vissa TV
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68438.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Telugu_Zee Cinemalu HD" tvg-logo="" group-title=" TELUGU ",|IN| Telugu_Zee Cinemalu HD
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68439.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Telugu_Zee Telugu HD" tvg-logo="" group-title=" TELUGU ",|IN| Telugu_Zee Telugu HD
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68440.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Telgu_NTV Telugu HD" tvg-logo="" group-title=" TELUGU ",|IN| Telgu_NTV Telugu HD
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68441.ts
+#EXTINF:0,#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|IN| Telgu_SVBCTTD HD" tvg-logo="" group-title=" TELUGU ",|IN| Telgu_SVBCTTD HD
+http://185.71.64.115:1997/live/notmenem3FZAFsqfqczf/azdcdfaefafsFAfzad/68442.ts
+#EXTINF:0,
